@@ -1,2 +1,2 @@
 # notes
-GIT 215 version control activity: create/close/publish
+GIT 215 version control activity: create/clone/publish
